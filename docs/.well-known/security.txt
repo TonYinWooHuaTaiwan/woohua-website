@@ -1,0 +1,3 @@
+Contact: mailto:tonyin@woohuataiwan.com
+Preferred-Languages: en, zh
+Canonical: https://woohuataiwan.com/.well-known/security.txt
