@@ -21,6 +21,10 @@ Production target: `https://woohuataiwan.com`
 
 The deployable static site is maintained in `/docs`.
 
+Files named `index.html` and `styles.css` at the repository root are retained as
+an early design snapshot and are not published by GitHub Pages. Make production
+changes only in `/docs`.
+
 ## Release process
 
 1. Build and review in the private source repository.
