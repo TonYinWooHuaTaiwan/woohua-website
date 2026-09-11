@@ -7,7 +7,7 @@ Production target: `https://woohuataiwan.com`
 - Use only brand, product, company and visual information supplied or explicitly confirmed by WooHua / TON YIN.
 - Do not invent tea origins, elevations, tasting notes, awards, certifications, biographies, production methods or commercial claims.
 - Brand front: **TON YIN™ / 堂印**. Company layer: **WooHua Co., Ltd.**
-- Core brand language: **SOIL · CRAFT · TIME · MOUNTAIN**.
+- Core brand language: **SOIL • CRAFT • TIME / MOUNTAIN** (the slash denotes a line break). The homepage hero headline is fixed global brand language: keep it in English in every locale, including Chinese. Follow the official artwork: “SOIL • CRAFT • TIME” on the first line and “MOUNTAIN” on the second; do not translate this headline.
 - Core craftsman story: 製茶師李宏堂 (tea maker), more than 30 years of tea-making experience, known in the trade as 「堂哥」.
 - Primary premium audiences: Taiwan and the United States.
 - No new recurring website subscription or hosting fee may be introduced without explicit approval.
