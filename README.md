@@ -8,7 +8,7 @@ Production target: `https://woohuataiwan.com`
 - Do not invent tea origins, elevations, tasting notes, awards, certifications, biographies, production methods or commercial claims.
 - Brand front: **TON YIN™ / 堂印**. Company layer: **WooHua Co., Ltd.**
 - Core brand language: **SOIL · CRAFT · TIME · MOUNTAIN**.
-- Core craftsman story: 李宏堂, more than 30 years of tea-roasting experience, known in the trade as 「堂哥」.
+- Core craftsman story: 製茶師李宏堂 (tea maker), more than 30 years of tea-making experience, known in the trade as 「堂哥」.
 - Primary premium audiences: Taiwan and the United States.
 - No new recurring website subscription or hosting fee may be introduced without explicit approval.
 - Existing `woohuataiwan.com` domain ownership and Google Workspace email must remain intact.
